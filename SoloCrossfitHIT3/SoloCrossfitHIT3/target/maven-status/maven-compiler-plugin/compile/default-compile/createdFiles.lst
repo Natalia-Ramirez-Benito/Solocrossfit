@@ -1,0 +1,5 @@
+com\hito\web\UserServlet.class
+com\hito\model\User.class
+com\hito\solocrossfithit3\JakartaRestConfiguration.class
+com\hito\solocrossfithit3\resources\JakartaEE10Resource.class
+com\hito\dao\UserDAO.class
